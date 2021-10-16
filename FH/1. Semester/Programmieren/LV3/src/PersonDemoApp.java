@@ -13,6 +13,7 @@ public class PersonDemoApp {
         susiSorglos.age = 30;
 
         susiSorglos.print();
+        maxMustermann.print();
 
     }
 
