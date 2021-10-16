@@ -12,6 +12,7 @@ public class Car {
         this.colour = colour;
     }
 
+   // public void initialize(String manufacture, String colour, int)}
 
 
     public void setProductionYear(int productionYear) {
