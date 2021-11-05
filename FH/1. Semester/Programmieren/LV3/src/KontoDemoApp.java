@@ -13,8 +13,7 @@ public class KontoDemoApp {
         max.print();
         susi.print();
         john.print();
-
-
+        
         max.aufbuchen(1000);
         max.print();
 
